@@ -1,3 +1,2 @@
 # DEVOPS
 
-![Uploading image.png…]()
